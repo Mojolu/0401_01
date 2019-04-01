@@ -1,1 +1,2 @@
 public void Static
+sysotem.out.println(list);
